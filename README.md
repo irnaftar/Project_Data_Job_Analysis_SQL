@@ -222,4 +222,29 @@ LIMIT 25;
 - Tableau is also highly sough after, with a bold count of 6.
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
+# Lessons learned as a person who just started out with SQL: 
+
+Throughout this process, I have gain a great amount of value in solidifying my foundation with SQL. 
+
+**Basic SQL**
+Over the past three weeks, I completed Luke Barousse’s four-hour SQL course, which provided a strong foundation in SQL for data analytics. The course covered:
+
+1. Basic SQL – Writing queries using SELECT, FROM, WHERE, ORDER BY, and filtering data.
+
+2. Advanced SQL – More complex operations like GROUP BY, HAVING, and window functions.
+
+3. Handling Dates – Working with date and time functions to manipulate temporal data.
+
+4. CASE Expressions – Using conditional statements for data transformations.
+
+5. Subqueries & CTEs – Breaking down complex queries using subqueries and Common Table Expressions (CTEs).
+
+6. UNION & Joins – Combining multiple datasets efficiently.
+
+7. Capstone Project – Applied all the concepts learned in a hands-on project.
+
+
+
+Big thanks to Luke Barousse for the structured and practical approach! His teaching made learning SQL much easier and fun.
+
 
