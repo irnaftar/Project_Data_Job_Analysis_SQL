@@ -231,7 +231,7 @@ Over the past three weeks, I completed Luke Barousse’s four-hour SQL course, w
 
 1. Basic SQL – Writing queries using SELECT, FROM, WHERE, ORDER BY, and filtering data.
 
-2. Advanced SQL – More complex operations like GROUP BY, HAVING, and window functions.
+2. Advanced SQL – More complex operations like GROUP BY, HAVING, and CTEs.
 
 3. Handling Dates – Working with date and time functions to manipulate temporal data.
 
