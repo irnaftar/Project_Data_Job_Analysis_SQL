@@ -1,5 +1,5 @@
 # Introduction 
-As a move into this data job market, the data analyzed focused on Data Analyst roles. The project explores top-paying jobs, in demand skills, and where high demand skills meets high salaru in Data analutics.
+As I move into this data job market, the data analyzed focused on Data Analyst roles. The project explores top-paying jobs, in demand skills, and where high demand skills meets high salaru in Data analutics.
 
 SQL queries? Check them out here: [Open project_sql](./project_sql/)
 
