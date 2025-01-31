@@ -21,6 +21,8 @@ For the analysis, the tools that were utilized:
 5 queries were executed and each focused on identifying a specific aspect of the analysis: 
 
 ### 1. Top Paying Data Analyst Jobs
+![Top pay jobs](<project_sql/assets/Top paying jobs.png>)
+
 ```SQL
 /*
 Question: What are the top-paying data analyst jobs? 
@@ -49,8 +51,12 @@ WHERE
 ORDER BY 
     salary_year_avg DESC
 LIMIT 10; 
+
+
 ```
 ### 2. Top paying skills
+
+![Top 10 Data Skills](<project_sql/assets/Top 10 Data Analyst skills.png>)
 
 ```SQL
 /*
@@ -97,6 +103,8 @@ The break down of the most demand skill is as follows:
 */
 ```
 ### 3. Top demanded skill
+![Top 5 Demanded Skills](<project_sql/assets/Top 5 Demanded skills.png>)
+
 ``` SQL
 /*
 Question: What are the most in-demand skills for data analysts? 
@@ -123,7 +131,7 @@ ORDER BY
 LIMIT 5;
 ```
 ### 4. Top skills based on salary 
-
+![Skills based on salary](<project_sql/assets/Top 10 Skills based on salary.png>)
 ``` SQL
 /*
 Question: What are the top skills based on salary? 
@@ -172,6 +180,7 @@ LIMIT 25;
 ```
 
 ### 5. Optimal skills
+![alt text](<project_sql/assets/10 Optimal skills.png>)
 ``` SQL
 /*
 Question: What are the most optimal skils to learm (A.K.A tje skills are in high demand and a high-paying skill)? 
@@ -213,5 +222,4 @@ LIMIT 25;
 - Tableau is also highly sough after, with a bold count of 6.
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-## Finding 1 
-![alt text](<project_sql/assets/Top 10 Data Analyst skills.png>)
+
