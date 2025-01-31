@@ -227,7 +227,7 @@ LIMIT 25;
 Throughout this process, I have gain a great amount of value in solidifying my foundation with SQL. 
 
 **Basic SQL**
-Over the past three weeks, I completed Luke Barousse’s four-hour SQL course, which provided a strong foundation in SQL for data analytics. The course covered:
+Over the past three weeks, I completed Luke Barousse’s SQL course, which provided a strong foundation in SQL for data analytics. The course covered:
 
 1. Basic SQL – Writing queries using SELECT, FROM, WHERE, ORDER BY, and filtering data.
 
